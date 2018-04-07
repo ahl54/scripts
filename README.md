@@ -1,3 +1,7 @@
+### Because someone on the internet suggested a scatterplot
+
+https://www.reddit.com/r/data/comments/8acoru/education_and_incarceration_correlation/
+
 ## Any correlation between U.S. educational funding and incarceration by state? 
 
 ![Image of graph](https://github.com/ahl54/scripts/blob/edu_inc/edu_inc/graph_ppcs_incarceration.png)
